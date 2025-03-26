@@ -2,7 +2,7 @@
 
 🚀 **Software Developer Enthusiast | IoT Security Researcher | Blockchain Enthusiast**  
 
-![GitHub Banner](https://via.placeholder.com/1000x300?text=Welcome+to+My+GitHub+Profile!)
+
 
 ## 📌 About Me  
 - 🎓 **Final-year B.Tech Student (Information Technology) @ DTU**  
@@ -42,8 +42,7 @@
 
 📩 **Email:** [workvaibhav001@gmail.com](mailto:workvaibhav001@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/vaibhav-krishan-0045b4214](https://www.linkedin.com/in/vaibhav-krishan-0045b4214/)  
-💻 **GitHub:** [github.com/dekuVaibhav](https://github.com/dekuVaibhav)  
-🔢 **LeetCode:** [leetcode.com/u/vaibhavkrishan2131/](https://leetcode.com/u/vaibhavkrishan2131/)  
+  
 
 ---
 
